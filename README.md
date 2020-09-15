@@ -14,7 +14,7 @@ We customized code from the LIBSVM library (Chang & Lin 2011), the class package
 
 This directory contains Machine Learning Algorithms (Bayesian Gaussian Process,
  K-Nearest Neighbors, Support Vector Machines) for classifying the compact objects
-  in X-ray Binaries. For more details, see [our live-broadcasted talk](https://youtu.be/axwqXh3DeAc) at the SAO Astronomy Summer Intern Symposium 2019. 
+  in X-ray Binaries. For more details, see [our live-broadcasted talk](https://youtu.be/c6SgxjjYLPk) at the SAO Astronomy Summer Intern Symposium 2019. 
   
 ## Citation
 
