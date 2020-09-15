@@ -1,6 +1,8 @@
 # X-ray Binaries in Color-Color-Intensity Diagrams
 
-Animated version of Figures from: de Beurs, Z. L., Islam, N., Gopalan, G., & Vrtilek, S.D. (2020). A Comparative Study of Machine Learning Methods for X-ray Binary Classification. Submitted to ApJ.
+Animated version of Figures from our paper: 
+
+de Beurs, Z. L., Islam, N., Gopalan, G., & Vrtilek, S.D. (2020). A Comparative Study of Machine Learning Methods for X-ray Binary Classification. Submitted to ApJ.
 
 ----
 ### 33 XRB sources in Color-Color-Intensity Space
