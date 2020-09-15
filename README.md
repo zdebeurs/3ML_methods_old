@@ -30,7 +30,7 @@ de Beurs, Z. L., Islam, N., Gopalan, G., & Vrtilek, S.D. (2020). A Comparative S
 
 ## Setup
 
-First, ensure that you have installed required packages
+First, ensure that you have installed required packages:
 
 * **ggplot2** ([instructions](https://ggplot2.tidyverse.org/))
 * **Pandas** 
