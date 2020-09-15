@@ -1,6 +1,6 @@
 # X-ray Binary ML: 3 Machine Learning Methods for Classifying the Compact Objects in X-ray Binaries
 
-Black Hole X-ray Binary Artists' Conception:
+ Artists' Conception of a Black Hole X-ray Binary (GROJ1655-40)
 
 ![GRS1739 Animation](BH_XRB_GRS1655.gif)
 
