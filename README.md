@@ -2,7 +2,7 @@
 
 **What are X-ray Binaries?** X-ray  binaries  (XRBs)  consist  of  a  compact  object accreting  matter  from  a  main  sequence  or  supergiant companion  star,  orbiting  the  common  center  of  mass.
 
-![GRS1739 Animation](XRB_visualization.png)
+![GRS1739 Animation](pics/XRB_visualization.png)
 
 ## Code Author
 
