@@ -1,4 +1,12 @@
-# X-ray Binaries in Color-Color-Intensity Diagrams
+## X-ray Binaries in Color-Color-Intensity Diagrams
+
+
+
+# XRBs that were misclassified by some of the ML algorithms
+
+![GRS1739 Animation](GRS1915_BH_sampled.png.gif) ![alt-text-2](GRS1915_NS_sampled.png.gif "title-2")
+
+**Figure 6.** (a) The BH GRS1915+105 (in cyan) plotted together with the other BH sources in the training set (in Purple) GRS1915+105 has some spatial overlap with but also occupies a different region than most other BHs. (b). GRS1915+105 (cyan) plotted with all NS sources in the training set (orange)   GRS1915+105 has points that are closer spatially to NS sources than to other BHs; this explains the misclassification by BGP and KNN.
 
 GRS 1739
 
