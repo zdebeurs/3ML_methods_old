@@ -1,8 +1,16 @@
-# X-ray Binaries in Color-Color-Intensity Diagrams from (de Beurs, Z., )
+# X-ray Binaries in Color-Color-Intensity Diagrams
+
+Animated version of Figures from: de Beurs, Z. L., Islam, N., Gopalan, G., & Vrtilek, S.D. (2020). A Comparative Study of Machine Learning Methods for X-ray Binary Classification. Submitted to ApJ.
 
 
+### 33 XRB sources in Color-Color-Intensity Space
 
-## XRBs that were misclassified by some of the ML algorithms
+![GRS1915_BH_sampled](33XRBSources.gif) 
+
+**Figure 1.** Color-Color-Intensity (CCI) diagrams of 11 BH (purple), 11 non-pulsing NS (orange), and 11 pulsar sources (green) from two different angles ($0^{\circ}$, $180^{\circ}$). Each point represents two X-ray colors and the corresponding intensity over one day for a given XRB.
+
+
+### XRBs that were misclassified by some of the ML algorithms
 
 ![GRS1915_BH_sampled](GRS1915_BH_sampled.gif) ![GRS1915_NS_sampled](GRS1915_NS_sampled.gif "title-2")
 
@@ -13,3 +21,8 @@
 
 
 **Figure 7.** a). The non-pulsing NSs 4U1254-690, 4U1916-053, and H0614+091 (in cyan) plotted with other sources from the training set (a) NS sources (orange) and (b) BH sources (Purple).  4U1254-690, 4U1916-053, and H0614+091 have some spatial overlap with the NS sources but also has points closer to the BH than to the NSs; this could result in the misclassifications by BGP and KNN models.
+
+
+![GRS1739_BH_sampled_5](4U1254-690_4U1916-053_H0614+091_NS_sampled.gif.gif) ![alt-text-2](4U1254-690_4U1916-053_H0614+091_BH_sampled.gif.gif "title-2")
+
+**Figure 8.** (a). The non-pulsing NSs 4U1254-690, 4U1916-053, and H0614+091 (in cyan) plotted with other sources from the training set (a) NS sources (orange) and (b) BH sources (Purple).  4U1254-690, 4U1916-053, and H0614+091 have some spatial overlap with the NS sources but also has points closer to the BH than to the NSs; this could result in the misclassifications by BGP and KNN models.
