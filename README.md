@@ -1,6 +1,6 @@
 # X-ray Binary ML: 3 Machine Learning Methods for Classifying the Compact Objects in X-ray Binaries
 
-** What are X-ray Binaries? ** X-ray  binaries  (XRBs)  consist  of  a  compact  objectaccreting  matter  from  a  main  sequence  or  supergiantcompanion  star,  orbiting  the  common  center  of  mass.
+**What are X-ray Binaries?** X-ray  binaries  (XRBs)  consist  of  a  compact  objectaccreting  matter  from  a  main  sequence  or  supergiantcompanion  star,  orbiting  the  common  center  of  mass.
 
 ![GRS1739 Animation](XRB_visualization.png)
 
