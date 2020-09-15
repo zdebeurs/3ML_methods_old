@@ -2,7 +2,7 @@
 
  What are X-ray Binaries?
 
-![GRS1739 Animation](XRB_visualization.png)
+![GRS1739 Animation](XRB_visualization.png =250x)
 
 ## Code Author
 
