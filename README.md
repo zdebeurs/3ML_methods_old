@@ -8,6 +8,8 @@
 
 Zoe de Beurs: [@zdebeurs](https://github.com/zdebeurs)
 
+We customized code from the LIBSVM library (Chang & Lin 2011), the class package (Venables & Ripley 2002), and the Kernlab library (Karatzoglou et al. 2004).
+
 ## Background
 
 This directory contains Machine Learning Algorithms (Bayesian Gaussian Process,
