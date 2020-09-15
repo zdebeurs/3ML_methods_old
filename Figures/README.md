@@ -16,7 +16,7 @@ de Beurs, Z. L., Islam, N., Gopalan, G., & Vrtilek, S.D. (2020). A Comparative S
 
 ![GRS1915_BH_sampled](GRS1915_BH_sampled.gif) ![GRS1915_NS_sampled](GRS1915_NS_sampled.gif "title-2")
 
-**Figure 6.** (a) The BH GRS1915+105 (in cyan) plotted together with the other BH sources in the training set (in Purple) GRS1915+105 has some spatial overlap with but also occupies a different region than most other BHs. (b). GRS1915+105 (cyan) plotted with all NS sources in the training set (orange)   GRS1915+105 has points that are closer spatially to NS sources than to other BHs; this explains the misclassification by BGP and KNN.
+**Figure 6.** (a) The BH GRS1915+105 (in cyan) plotted together with the other BH sources in the training set (in Purple). GRS1915+105 has some spatial overlap with but also occupies a different region than most other BHs. (b). GRS1915+105 (cyan) plotted with all NS sources in the training set (orange).   GRS1915+105 has points that are closer spatially to NS sources than to other BHs; this explains the misclassification by BGP and KNN.
 
 
 ![GRS1739_BH_sampled_5](GRS1739_BH_sampled_5.gif) ![alt-text-2](GRS1739_NS_sampled.gif "title-2")
