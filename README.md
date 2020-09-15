@@ -37,5 +37,5 @@ To examine the 3D Color-Color-Intensity Diagrams, go to [Figures](3ML_methods_fo
 First, ensure that you have installed required packages in R:
 
 * **ggplot2** ([instructions](https://ggplot2.tidyverse.org/))
-* **Pandas** 
+* **e1071** ([instructions](https://cran.r-project.org/web/packages/e1071/index.html/))
 
