@@ -1,10 +1,8 @@
 # X-ray Binary ML: 3 Machine Learning Methods for Classifying the Compact Objects in X-ray Binaries
 
- Artists' Conception of a Black Hole X-ray Binary (GROJ1655-40)
+ What are X-ray Binaries?
 
-![GRS1739 Animation](BH_XRB_GRS1655.gif)
-
-Source: Chandra X-ray Observatory
+![GRS1739 Animation](XRB_visualization.png)
 
 ## Code Author
 
