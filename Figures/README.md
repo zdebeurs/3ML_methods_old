@@ -10,7 +10,6 @@
 
 GRS 1739
 
-![GRS1739 Animation](GRS1739_BH_sampled_slow.gif) ![alt-text-2](GRS1739_BH_sampled_5.gif "title-2")
 
 
 
