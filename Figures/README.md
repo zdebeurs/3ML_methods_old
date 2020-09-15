@@ -20,9 +20,9 @@ Animated version of Figures from: de Beurs, Z. L., Islam, N., Gopalan, G., & Vrt
 ![GRS1739_BH_sampled_5](GRS1739_BH_sampled_5.gif) ![alt-text-2](GRS1739_NS_sampled.gif "title-2")
 
 
-**Figure 7.** a). The non-pulsing NSs 4U1254-690, 4U1916-053, and H0614+091 (in cyan) plotted with other sources from the training set (a) NS sources (orange) and (b) BH sources (Purple).  4U1254-690, 4U1916-053, and H0614+091 have some spatial overlap with the NS sources but also has points closer to the BH than to the NSs; this could result in the misclassifications by BGP and KNN models.
+**Figure 7.** The BH, GRS 1739-278 (in cyan) plotted with other  sources from the training set (a) BH sources (Purple) and (b) non-pulsing NSs(orange).  GRS 1739-278 has some spatial overlap with the BH sources but also but also have points closer to the NSs than to the BHs; this could potentially explain the misclassifications by BGP, KNN and SVM models.
 
 
 ![GRS1739_BH_sampled_5](4U1254-690_4U1916-053_H0614+091_NS_sampled.gif) ![alt-text-2](4U1254-690_4U1916-053_H0614+091_BH_sampled.gif "title-2")
 
-**Figure 8.** (a). The non-pulsing NSs 4U1254-690, 4U1916-053, and H0614+091 (in cyan) plotted with other sources from the training set (a) NS sources (orange) and (b) BH sources (Purple).  4U1254-690, 4U1916-053, and H0614+091 have some spatial overlap with the NS sources but also has points closer to the BH than to the NSs; this could result in the misclassifications by BGP and KNN models.
+**Figure 8.** The non-pulsing NSs 4U1254-690, 4U1916-053, and H0614+091 (in cyan) plotted with other sources from the training set (a) NS sources (orange) and (b) BH sources (Purple).  4U1254-690, 4U1916-053, and H0614+091 have some spatial overlap with the NS sources but also has points closer to the BH than to the NSs; this could result in the misclassifications by BGP, KNN, and SVM models.
