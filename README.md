@@ -26,7 +26,7 @@ or
 
 de Beurs, Z. L., Islam, N., Gopalan, G., & Vrtilek, S.D. (2020). A Comparative Study of Machine Learning Methods for X-ray Binary Classification. Submitted to ApJ. 
 
-## Figures from the paper in 3D gifs
+## Figures from the paper in 3D Animations
 
 To examine the 3D Color-Color-Intensity Diagrams, go to [Figures](3ML_methods_for_XRB_classification/Figures)
 
