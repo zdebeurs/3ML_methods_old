@@ -5,7 +5,7 @@
 # Be sure to install "ggplot2" if not already installed with "install.packages("ggplot2")"
 library(ggplot2)
 
-#Read in the data (Adjust this path based on where you download your files )
+# Set the working directory (Adjust this path based on where you download your files )
 setwd("~/Documents/Summer19/SAO_Research/3ML_methods_for_XRB_classification/")
 
 # Name of folder which contains XRB sources 
