@@ -40,6 +40,7 @@ First, ensure that you have installed required packages in R:
 * **e1071** ([instructions](https://cran.r-project.org/web/packages/e1071/index.html/))
 * **doFuture** ([instructions](https://cran.r-project.org/web/packages/doFuture/index.html/))
 
-
+---
 **< UNDER CONSTRUCTION >**
+
 ** NEW CONTENT WILL BE ADDED SOON **
