@@ -1,6 +1,6 @@
 # Zoe de Beurs (working with Saku Vrtilek, Nazma Islam, and Giri Gopalan). Some of this code is adapted from https://github.com/ggopalan/XRay-Binary-Classification.
 
-# Script aims to take a sample such that each source has an average of 1000 pts per sample
+# Script aims to take a sample such that each source has an average of ~200 pts per sample
 
 # Be sure to install "ggplot2" if not already installed with "install.packages("ggplot2")"
 library(ggplot2)
