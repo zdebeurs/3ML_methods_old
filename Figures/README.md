@@ -4,6 +4,7 @@ Animated version of Figures from: de Beurs, Z. L., Islam, N., Gopalan, G., & Vrt
 
 
 ### 33 XRB sources in Color-Color-Intensity Space
+----
 
 ![GRS1915_BH_sampled](33XRBSources.gif) 
 
@@ -11,6 +12,7 @@ Animated version of Figures from: de Beurs, Z. L., Islam, N., Gopalan, G., & Vrt
 
 
 ### XRBs that were misclassified by some of the ML algorithms
+----
 
 ![GRS1915_BH_sampled](GRS1915_BH_sampled.gif) ![GRS1915_NS_sampled](GRS1915_NS_sampled.gif "title-2")
 
@@ -23,6 +25,6 @@ Animated version of Figures from: de Beurs, Z. L., Islam, N., Gopalan, G., & Vrt
 **Figure 7.** a). The non-pulsing NSs 4U1254-690, 4U1916-053, and H0614+091 (in cyan) plotted with other sources from the training set (a) NS sources (orange) and (b) BH sources (Purple).  4U1254-690, 4U1916-053, and H0614+091 have some spatial overlap with the NS sources but also has points closer to the BH than to the NSs; this could result in the misclassifications by BGP and KNN models.
 
 
-![GRS1739_BH_sampled_5](4U1254-690_4U1916-053_H0614+091_NS_sampled.gif.gif) ![alt-text-2](4U1254-690_4U1916-053_H0614+091_BH_sampled.gif.gif "title-2")
+![GRS1739_BH_sampled_5](4U1254-690_4U1916-053_H0614+091_NS_sampled.gif) ![alt-text-2](4U1254-690_4U1916-053_H0614+091_BH_sampled.gif "title-2")
 
 **Figure 8.** (a). The non-pulsing NSs 4U1254-690, 4U1916-053, and H0614+091 (in cyan) plotted with other sources from the training set (a) NS sources (orange) and (b) BH sources (Purple).  4U1254-690, 4U1916-053, and H0614+091 have some spatial overlap with the NS sources but also has points closer to the BH than to the NSs; this could result in the misclassifications by BGP and KNN models.
