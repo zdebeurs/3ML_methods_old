@@ -2,17 +2,15 @@
 
 Animated version of Figures from: de Beurs, Z. L., Islam, N., Gopalan, G., & Vrtilek, S.D. (2020). A Comparative Study of Machine Learning Methods for X-ray Binary Classification. Submitted to ApJ.
 
-
-### 33 XRB sources in Color-Color-Intensity Space
 ----
+### 33 XRB sources in Color-Color-Intensity Space
 
 ![GRS1915_BH_sampled](33XRBSources.gif) 
 
 **Figure 1.** Color-Color-Intensity (CCI) diagrams of 11 BH (purple), 11 non-pulsing NS (orange), and 11 pulsar sources (green) from two different angles ($0^{\circ}$, $180^{\circ}$). Each point represents two X-ray colors and the corresponding intensity over one day for a given XRB.
 
-
-### XRBs that were misclassified by some of the ML algorithms
 ----
+### XRBs that were misclassified by some of the ML algorithms
 
 ![GRS1915_BH_sampled](GRS1915_BH_sampled.gif) ![GRS1915_NS_sampled](GRS1915_NS_sampled.gif "title-2")
 
