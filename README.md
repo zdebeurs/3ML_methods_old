@@ -13,3 +13,18 @@ Zoe de Beurs: [@zdebeurs](https://github.com/zdebeurs)
 This directory contains Machine Learning Algorithms (Bayesian Gaussian Process,
  K-Nearest Neighbors, Support Vector Machines) for classifying the compact objects
   in X-ray Binaries from X-ray observations. For more details, see [our live-broadcasted talk](https://drive.google.com/file/d/1mf9-_8UZLLnQyqAsFFMJeu53_0c5h8XT/view) at the SAO Astronomy Summer Intern Symposium 2019. 
+  
+## Citation
+
+If you find this code useful, please cite our paper:
+
+Zoe L. de Beurs, N. Islam., G. Gopalan, S. D. Vrtilek (2020). A Comparative Study of Machine Learning Methods for X-ray Binary Classification. Submitted to ApJ. 
+
+# Walkthrough
+
+## Setup
+
+First, ensure that you have installed the
+[required packages](../../README.md#required-packages) and that the
+[unit tests](../../README.md#run-unit-tests) pass.
+
