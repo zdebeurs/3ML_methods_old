@@ -30,7 +30,8 @@ de Beurs, Z. L., Islam, N., Gopalan, G., & Vrtilek, S.D. (2020). A Comparative S
 
 ## Setup
 
-First, ensure that you have installed the
-[required packages](../../README.md#required-packages) and that the
-[unit tests](../../README.md#run-unit-tests) pass.
+First, ensure that you have installed required packages in R:
+
+* **ggplot2** ([instructions](https://ggplot2.tidyverse.org/))
+* **Pandas** 
 
