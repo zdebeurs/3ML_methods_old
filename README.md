@@ -28,7 +28,7 @@ de Beurs, Z. L., Islam, N., Gopalan, G., & Vrtilek, S.D. (2020). A Comparative S
 
 ## Figures from the paper in 3D gifs
 
-To examine the 3D Color-Color-Intensity Diagrams, go to [Figures/](3ML_methods_for_XRB_classification/Figures/)
+To examine the 3D Color-Color-Intensity Diagrams, go to [Figures/](3ML_methods_for_XRB_classification/Figures)
 
 # Walkthrough
 
