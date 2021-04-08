@@ -9,22 +9,26 @@ de Beurs, Z. L., Islam, N., Gopalan, G., & Vrtilek, S.D. (2020). A Comparative S
 
 ![GRS1915_BH_sampled](Figure1.gif) 
 
-**Figure 1.** Color-Color-Intensity (CCI) diagrams of 12 BH (purple), 20 NPNS (orange), and 12 pulsar sources (green) from two different angles (35°, 145°). Each point represents two X-ray colors and the corresponding intensity over one day for a given XRB.
+**Figure 1.** Color-Color-Intensity (CCI) diagrams of 12 black holes (purple), 20 non-pulsing neutron stars (orange), and 12 pulsar sources (green) from two different angles (35°, 145°). Each point represents two X-ray colors and the corresponding intensity over one day for a given X-ray Binary source.
 
 ----
 ### XRBs that were misclassified by some of the ML algorithms
 
-![GRS1915_BH_sampled](GRS1915_BH_sampled.gif) ![GRS1915_NS_sampled](GRS1915_NS_sampled.gif "title-2")
+![GRS1915_BH_sampled](Figure10.gif)
 
-**Figure 6.** (a) The BH GRS1915+105 (in cyan) plotted together with the other BH sources in the training set (in purple). GRS1915+105 has some spatial overlap with other BHs but also occupies a different region than most other BHs. (b). GRS1915+105 (cyan) plotted with all NS sources in the training set (orange).   GRS1915+105 has points that are closer spatially to NS sources than to other BHs; this could explain the misclassification by BGP and KNN.
-
-
-![GRS1739_BH_sampled_5](GRS1739_BH_sampled_5.gif) ![alt-text-2](GRS1739_NS_sampled.gif "title-2")
+**Figure 10.** The black hole CygX-3 (in magenta) plotted together with the other black hole sources (in purple) in the training set and all pulsar sources (in green).
 
 
-**Figure 7.** The BH, GRS 1739-278 (in cyan) plotted with other  sources from the training set (a) BH sources (Purple) and (b) non-pulsing NSs(orange).  GRS 1739-278 has some spatial overlap with the BH sources but also but also have points closer to the NSs than to the BHs; this could potentially explain the misclassifications by BGP, KNN and SVM models.
+![GRS1739_BH_sampled_5](Figure11.gif)
+
+**Figure 7.** The black hole CygX-3 (in magenta) plotted together with the other black hole sources (in purple) in the training set and all pulsar sources (in green).
 
 
-![GRS1739_BH_sampled_5](4U1254-690_4U1916-053_H0614+091_NS_sampled.gif) ![alt-text-2](4U1254-690_4U1916-053_H0614+091_BH_sampled.gif "title-2")
+![GRS1739_BH_sampled_5](Figure12.gif)
 
-**Figure 8.** The non-pulsing NSs 4U1254-690, 4U1916-053, and H0614+091 (in cyan) plotted with other sources from the training set (a) NS sources (orange) and (b) BH sources (Purple).  4U1254-690, 4U1916-053, and H0614+091 have some spatial overlap with the NS sources but also has points closer to the BH than to the NSs; this could result in the misclassifications by BGP, KNN, and SVM models.
+**Figure 8.** The black holes GRS1739-278 and H1743-322 (in cyan) plotted together with the other black hole sources (in purple) in the training set and all non-pulsing neutron star sources (in orange).
+
+
+![GRS1739_BH_sampled_5](Figure13.gif)
+
+**Figure 8.** The non-pulsing neutron star 4U1700-37 (in black) plotted together with the other non-pulsing neutron star sources (in orange) in the training set and all pulsar sources (in green).
