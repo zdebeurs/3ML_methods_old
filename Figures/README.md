@@ -9,7 +9,7 @@ de Beurs, Z. L., Islam, N., Gopalan, G., & Vrtilek, S.D. (2020). A Comparative S
 
 ![GRS1915_BH_sampled](Figure1.gif) 
 
-**Figure 1.** Color-Color-Intensity (CCI) diagrams of 12 BH (purple), 20 NPNS (orange), and 12 pulsar sources (green) from two different angles ($35^{\circ}$, $145^{\circ}$). Each point represents two X-ray colors and the corresponding intensity over one day for a given XRB.
+**Figure 1.** Color-Color-Intensity (CCI) diagrams of 12 BH (purple), 20 NPNS (orange), and 12 pulsar sources (green) from two different angles (35°, 145°). Each point represents two X-ray colors and the corresponding intensity over one day for a given XRB.
 
 ----
 ### XRBs that were misclassified by some of the ML algorithms
