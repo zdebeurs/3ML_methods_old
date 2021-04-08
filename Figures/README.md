@@ -21,14 +21,14 @@ de Beurs, Z. L., Islam, N., Gopalan, G., & Vrtilek, S.D. (2020). A Comparative S
 
 ![GRS1739_BH_sampled_5](Figure11.gif)
 
-**Figure 7.** The black hole CygX-3 (in magenta) plotted together with the other black hole sources (in purple) in the training set and all pulsar sources (in green).
+**Figure 11.** The black hole CygX-3 (in magenta) plotted together with the other black hole sources (in purple) in the training set and all pulsar sources (in green).
 
 
 ![GRS1739_BH_sampled_5](Figure12.gif)
 
-**Figure 8.** The black holes GRS1739-278 and H1743-322 (in cyan) plotted together with the other black hole sources (in purple) in the training set and all non-pulsing neutron star sources (in orange).
+**Figure 12.** The black holes GRS1739-278 and H1743-322 (in cyan) plotted together with the other black hole sources (in purple) in the training set and all non-pulsing neutron star sources (in orange).
 
 
 ![GRS1739_BH_sampled_5](Figure13.gif)
 
-**Figure 8.** The non-pulsing neutron star 4U1700-37 (in black) plotted together with the other non-pulsing neutron star sources (in orange) in the training set and all pulsar sources (in green).
+**Figure 13.** The non-pulsing neutron star 4U1700-37 (in black) plotted together with the other non-pulsing neutron star sources (in orange) in the training set and all pulsar sources (in green).
