@@ -7,7 +7,7 @@ de Beurs, Z. L., Islam, N., Gopalan, G., & Vrtilek, S.D. (2020). A Comparative S
 ----
 ### 44 XRB sources in Color-Color-Intensity Space
 
-![GRS1915_BH_sampled](Figure1.gif) 
+![GRS1915_BH_sampled](44XRBSources.gif) 
 
 **Figure 1.** Color-Color-Intensity (CCI) diagrams of 12 black holes (purple), 20 non-pulsing neutron stars (orange), and 12 pulsar sources (green) from two different angles (35°, 145°). Each point represents two X-ray colors and the corresponding intensity over one day for a given X-ray Binary source.
 
