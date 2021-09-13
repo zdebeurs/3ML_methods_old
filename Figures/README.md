@@ -14,21 +14,16 @@ de Beurs, Z. L., Islam, N., Gopalan, G., & Vrtilek, S.D. (2020). A Comparative S
 ----
 ### XRBs that were misclassified by some of the ML algorithms
 
-![GRS1915_BH_sampled](Figure10.gif)
+![GRS1915_BH_sampled](BHs_classified_as_NS_sampled.gif)
 
-**Figure 10.** The black hole CygX-3 (in magenta) plotted together with the other black hole sources (in purple) in the training set and all pulsar sources (in green).
-
-
-![GRS1739_BH_sampled_5](Figure11.gif)
-
-**Figure 11.** The black hole CygX-3 (in magenta) plotted together with the other black hole sources (in purple) in the training set and all pulsar sources (in green).
+**Figure 13.** The four BHs misclassified as Bursters in purple and Bursters in orange.
 
 
-![GRS1739_BH_sampled_5](Figure12.gif)
+![GRS1739_BH_sampled_5](CygX-3_BH_PS_Red_sampled.gif)
 
-**Figure 12.** The black holes GRS1739-278 and H1743-322 (in cyan) plotted together with the other black hole sources (in purple) in the training set and all non-pulsing neutron star sources (in orange).
+**Figure 14.** The BH Cyg X-3 in red; BHs in training set excluding Cyg X-3 in purple; all pulsars in training set in green. 
 
 
-![GRS1739_BH_sampled_5](Figure13.gif)
+![GRS1739_BH_sampled_5](4U1700-37_NS_PS_Black_sampled.gif)
 
-**Figure 13.** The non-pulsing neutron star 4U1700-37 (in black) plotted together with the other non-pulsing neutron star sources (in orange) in the training set and all pulsar sources (in green).
+**Figure 15.** The NPNS 4U1700-37 in black, other NPNS sources in the training set in orange, and all pulsar sources in training set in green.
